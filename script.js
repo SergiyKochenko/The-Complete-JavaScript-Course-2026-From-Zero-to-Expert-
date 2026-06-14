@@ -231,4 +231,11 @@ if (money) {
     console.log("You should get a job!");
 }
 
+let height = 180;
+if (height) {
+    console.log(`YEY! Height is defined it is: ${height} santimeters`);
+} else {
+    console.log('Height is UNDEFINED');
+}
+
 
